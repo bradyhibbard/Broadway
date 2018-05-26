@@ -5,8 +5,12 @@ body {
 }
 
 header {
-  background-image: url("the-flatiron-building.png");
+  color: white;
+  background-image: url("./images/the-flatiron-building.png");
+
 }
+
+
 footer {
   text-align: left;
   background-color: dimgray;
@@ -15,5 +19,7 @@ footer {
 }
 
 #divider {
-  background-image: url("the-flatiron-building.png");
+  color: white;
+  background-image: url("./images/the-flatiron-building.png");
+
 }
