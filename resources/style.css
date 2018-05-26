@@ -16,6 +16,11 @@ h1  {
   color: white;
 }
 
+h2 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
 footer {
   text-align: left;
   background-color: dimgray;
@@ -38,7 +43,9 @@ p {
 #home  {
   color: white;
   font-weight: bold;
-  font-size:  18px;
+}
+#work {
+  font-size: 32px;
 }
 
 a.link, a:visited {
