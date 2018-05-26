@@ -23,15 +23,22 @@ footer {
   color: white;
 }
 
+p {
+  font-size: 14px;
+}
+
 #divider {
   color: white;
   background-image: url("./images/the-flatiron-building.png");
+  font-size: 23 px;
+  font-weight: bold;
 
 }
 
 #home  {
   color: white;
   font-weight: bold;
+  font-size:  18px;
 }
 
 a.link, a:visited {
